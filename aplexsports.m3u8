@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="GRUPO",ESPN
-https://rm8zcvk3.fubohd.com/americatv/mono.m3u8?token=ee03f0f0923bafcf465fe0d78fe2be53fd3baec7-f6-1766051247-1766033247
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/699140
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="GRUPO",ESPN 2
-https://anvtcax.fubohd.com/espn2/mono.m3u8?token=f3616393cc96e213da0e0c1d42b4b6a59cc77931-42-1764452539-1764434539
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/375394
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="GRUPO",ESPN 3
-https://aw1wcm92zq.fubohd.com/espn3/mono.m3u8?token=afc5acac44759730b071459934ec482d992748fc-cb-1764452651-1764434651
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/704024
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="GRUPO",ESPN 4
-https://anvtcax.fubohd.com/espn4/mono.m3u8?token=9528494f8cf3fe4a7bd77f76f78a41401629f743-49-1764452699-1764434699
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/235410
 #EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="GRUPO",ESPN 5
-https://ag9wzq.fubohd.com/espn5/mono.m3u8?token=77fa4905a8c4903c8cf825f14d79da89ed9a184b-b7-1764452739-1764434739
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/99663
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="GRUPO",ESPN 6
-https://agvyby.fubohd.com/espn6/mono.m3u8?token=50c723561de9a0b04a7afdaaa6be8be5531f42ae-a8-1764452764-1764434764
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/99665
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="GRUPO",ESPN 7
-https://agvyby.fubohd.com/espn7/2025/11/29/17/02/15-06006.ts?token=b196b7712bec97a59ef56a1488babd9cde9c97a3-c-1764452790-1764434790
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/99664
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="GRUPO",ESPN Premium
 http://pixelmax.link:8085/Ladyvillares57389/8374847372/99753
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="GRUPO",Fox Sports Argentina
@@ -20,7 +20,7 @@ http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/671754
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="GRUPO",Fox Sports 2 Argentina
 https://x4bnd7lq.fubohd.com/foxsports3/mono.m3u8?token=10db787ba5e23a1540e35229e2838438276a9038-10-1764453697-1764435697
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="GRUPO",Fox Sports 3 Argentina
-http://pixelmax.link:8085/Ladyvillares57389/8374847372/701271
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/701271
 #EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="GRUPO",ESPN 2 México
 https://ym9yzq.fubohd.com/espn2mx/mono.m3u8?token=9348e44ae3c6957aebe073fca5a33444b9ebe837-92-1764452613-1764434613
 #EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="GRUPO",ESPN 3 México
@@ -30,11 +30,11 @@ http://pixelmax.link:8085/Ladyvillares57389/8374847372/675656
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="GRUPO",Fox Sports 2 México
 http://pixelmax.link:8085/Ladyvillares57389/8374847372/397957
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="GRUPO",Fox Sports 3 México
-https://bgfuzq.fubohd.com/foxsports3mx/mono.m3u8?token=8273c5c520d5695a242e57f3621d121f5ba72092-84-1764453720-1764435720
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/397958
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="GRUPO",Fox Sports Premium
 http://pixelmax.link:8085/Ladyvillares57389/8374847372/690528
 #EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="GRUPO",Direct TV Sports
-https://a2vlca.fubohd.com/dsports/mono.m3u8?token=4be052bcb437fb37d672fb2bbbdbcdd749ec5cb7-54-1764323283-1764305283
+http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/387929
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="Direct TV Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="GRUPO",Direct TV Sports 2
 https://bgfuzq.fubohd.com/dsports2/mono.m3u8?token=fe43933e171ff40b9cdff78a62ab1b3cc4d34204-2a-1764323420-1764305420
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="GRUPO",TyC Sports
