@@ -69,10 +69,41 @@ https://tvgolat.org:8443/batusaix/javier/56866.ts
 https://tvgolat.org:8443/batusaix/javier/56867.ts
 #EXTINF:-1 tvg-id="MOVISTARLIGADECAMPEONES" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="Deportes",Movistar Liga De Campeones
 https://tvgolat.org:8443/batusaix/javier/160243.ts
-#EXTINF:-1 tvg-id="WWECHANNEL" tvg-name="WWE Channel" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Deportes",WWE Channel
-http://yuniott.xyz/W9G5594/7KZL4WT/108847
-
-
-
-
-
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
+http://bgdc.live:25461/joesardo55/37458621/215214
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Cable",National Geographic
+http://bgdc.live:25461/joesardo55/37458621/215193
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Cable",MTV
+http://bgdc.live:25461/joesardo55/37458621/215187
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Cable",History Channel
+http://bgdc.live:25461/joesardo55/37458621/215177
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cable",Golden
+http://bgdc.live:25461/joesardo55/37458621/215160
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cable",Golden Edge
+http://bgdc.live:25461/joesardo55/37458621/215161
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Cable",E! Entertainment
+http://bgdc.live:25461/joesardo55/37458621/215142
+#EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Cable",Distrito Comedia
+http://bgdc.live:25461/joesardo55/37458621/215139
+#EXTINF:-1 tvg-id="DISCOVERYH&H" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cable",Discovery Home & Health
+http://bgdc.live:25461/joesardo55/37458621/215131
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Cable",Animal Planet
+http://bgdc.live:25461/joesardo55/37458621/215100
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
+http://bgdc.live:25461/joesardo55/37458621/215104
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.pn" group-title="TV Abierta",Las Estrellas
+http://bgdc.live:25461/joesardo55/37458621/215183
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
+http://bgdc.live:25461/joesardo55/37458621/215115
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids
+http://bgdc.live:25461/joesardo55/37458621/215132
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/1200px-Cartoon_network_modified_logo.PNG" group-title="Niños",Cartoon Network
+http://bgdc.live:25461/joesardo55/37458621/215120
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Niños",Tooncast
+http://bgdc.live:25461/joesardo55/37458621/215217
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Niños",Disney Channel
+http://bgdc.live:25461/joesardo55/37458621/215137
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png" group-title="Niños",Disney Jr
+http://bgdc.live:25461/joesardo55/37458621/215138
