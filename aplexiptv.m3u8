@@ -1,4 +1,4 @@
-#EXTM3U
+.l#EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
 http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/699140
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
@@ -115,5 +115,3 @@ http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/132699.ts
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/132697.ts
 #EXTINF:-1 tvg-id="LAKERSEVENTS" tvg-name="Eventos: L.A. Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2560px-Los_Angeles_Lakers_logo.svg.png" group-title="Eventos",Los Angeles Lakers Games
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/431791.ts
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
