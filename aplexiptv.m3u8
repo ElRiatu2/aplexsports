@@ -117,6 +117,8 @@ http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/132699.ts
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/132697.ts
 #EXTINF:-1 tvg-id="LAKERSEVENTS" tvg-name="Eventos: L.A. Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2560px-Los_Angeles_Lakers_logo.svg.png" group-title="Eventos",Los Angeles Lakers Games
 http://bstv.online:8080/2aeg04/5878546467h/1159447
+#EXTINF:-1 tvg-id="PELICANSSEVENTS" tvg-name="Eventos: New Orleans Pelicans" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pelicans-logo-transparent.png" group-title="Eventos",New Orelans Pelicans Games
+http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/438054.ts
 #EXTINF:-1 tvg-id="ATLASEVENTS" tvg-name="Eventos: Atlas FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fútbol_Club_Atlas.svg/1827px-Fútbol_Club_Atlas.svg.png" group-title="Eventos",Atlas FC Partidos
 https://tvgolat.org:8443/batusaix/javier/273243.ts
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
