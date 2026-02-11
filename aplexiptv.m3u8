@@ -58,7 +58,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 #EXTINF:-1 tvg-id="TELEMUNDOPR" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Deportes",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
-http://pixelmax.link:8085/Ladyvillares57389/8374847372/685976
+http://tv.zapping.life:8080/Juan35/sjvYS9654m/9606
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/362472.ts
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
