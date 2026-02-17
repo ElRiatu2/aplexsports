@@ -13,8 +13,8 @@ http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/361021.ts
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/361022.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/361023.ts
-#EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
-http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/81254.ts
+#EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
+http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/360915.ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/50506.ts
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
