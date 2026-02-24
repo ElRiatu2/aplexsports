@@ -55,7 +55,7 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 tvg-id="TELEMUNDOPR" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Deportes",Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Deportes",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 https://tvgolat.org:8443/batusaix/javier/3283.ts
