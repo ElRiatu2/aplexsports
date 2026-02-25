@@ -120,9 +120,10 @@ http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/439431.ts
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/452306.ts  
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/445401.ts
-#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 1
+#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/La_casa_de_los_famosos_series_logo.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 2
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/376382.ts
-
+#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/La_casa_de_los_famosos_series_logo.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 2
+http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/451543.ts
 
 
 
